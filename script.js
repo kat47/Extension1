@@ -3,5 +3,5 @@ fetch('https://icanhazdadjoke.com/slack')
 .then(jokeData =>{
     const jokeText = jokeData.attachments[0].text;
     const jokeElement = document.getElementById('jokeElement');
-    jokeElement.innerHTML = jokeText;
+    jokeElement.textContent = jokeText;
 })
