@@ -8,7 +8,7 @@ First try at buidling an extension.
 Fetches and shows a random joke when the extension is clicked.
 
 ---
-## Where to get
+## Where to get (Ctrl/Cmd + Click to open in a new tab)
 
 ### **Mozilla**
 
